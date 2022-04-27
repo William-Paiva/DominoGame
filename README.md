@@ -1,4 +1,4 @@
-<div style="background: black"></div>
+<div style="background: red"></div>
 <h1 align="center"> Domino Game </h1>
 <h2 align="center"> William Paiva and Pedro Gabriel Siva Rodrigues</h2>
 <h3 align="center"> Work of Data Structure </h3>
